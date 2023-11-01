@@ -68,7 +68,7 @@ nav {
 nav a {
 
     background-color: gold;
-    width: calc(50% / 3);
+    width: calc(100% / 3);
     height: auto;
     text-decoration: none;
     align-self: center;
