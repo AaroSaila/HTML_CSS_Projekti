@@ -20,9 +20,9 @@ html {
 
 body {
 
-    margin: 0;
     background-color: rgb(211, 211, 211);
     background-image: url("../IMG/background.png");
+    margin: 0;
 
 }
 
@@ -157,5 +157,33 @@ main {
     margin: auto;
     margin-bottom: 2rem;
     margin-top: 2rem;
+
+}
+
+.contact_section {
+
+    width: 40%;
+    background-color: rgb(217, 225, 231);
+    font-size: 1.5rem;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    text-align: center;
+
+}
+
+#vutext {
+
+    text-decoration: underline;
+
+}
+
+#map {
+
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    display: block;
+    border: 1rem solid black;
 
 }
