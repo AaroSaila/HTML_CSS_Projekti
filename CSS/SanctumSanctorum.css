@@ -79,6 +79,7 @@ nav {
 nav a {
 
     background-color: gold;
+    color: black;
     width: calc(100% / 3);
     height: auto;
     text-decoration: none;
