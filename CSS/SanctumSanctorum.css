@@ -130,10 +130,10 @@ main {
 
 #news_page_main_section {
 
-    display: flex;
-    flex-wrap: wrap;
+    display: block;
     border: 5px solid black;
-    margin: 2rem;
+    margin: auto;
+    margin-top: 2rem;
     width: 90%;
 
 }
