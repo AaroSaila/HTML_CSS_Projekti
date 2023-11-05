@@ -135,16 +135,14 @@ main {
     margin: auto;
     margin-top: 2rem;
     width: 90%;
+    padding: 1rem;
 
 }
 
 #news_page_big_image {
 
-    align-self: center;
     width: inherit;
-    margin: auto;
-    margin-top: 1rem;
-
+    margin: 2rem;
 }
 
 #news_page_text {
@@ -270,6 +268,7 @@ main {
     .news_page_section {
 
         display: flex;
+        margin: 3rem;
 
     }
 
