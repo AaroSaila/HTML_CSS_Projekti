@@ -11,24 +11,11 @@ html {
 
 }
 
-/* .container {
-
-    display: flex;
-    flex-wrap: wrap;
-
-} */
-
 body {
 
     background-color: rgb(211, 211, 211);
     background-image: url("../IMG/background.png");
     margin: 0;
-
-}
-
-.heading {
-
-    font-family: Georgia, serif;
 
 }
 
@@ -54,7 +41,6 @@ header {
 
 .header_title {
 
-    /* background-color: red; */
     align-self: center;
     text-align: center;
     width: 30%;
@@ -63,7 +49,6 @@ header {
 
 .logo {
 
-    /* background-color: aqua; */
     width: 15%;
     height: auto;
 
@@ -119,7 +104,6 @@ main {
     margin: auto;
     margin-top: 2rem;
     text-align: center;
-    /* background-color: steelblue; */
     display: flex;
     flex-wrap: wrap;
 
@@ -136,7 +120,6 @@ main {
 #main_page_p {
 
     font-size: 2rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     margin: auto;
     margin-top: 1rem;
@@ -200,7 +183,6 @@ main {
 
 .news_page_heading {
 
-    font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(255, 255, 255);
     width: 90%;
     height: auto;
